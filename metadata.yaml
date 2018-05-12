@@ -1,0 +1,29 @@
+_repo: Il-Libro-Nero_38082
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38082-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38082'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: Il Libro Nero
+url: http://www.gutenberg.org/ebooks/38082
